@@ -1,7 +1,7 @@
 # Happy Birthday Card!
-A Happy Birthday Card for the people you can't give a physical card to!
+A Happy Birthday Card I made to send to my distant loved ones!
 
 ## Customizable Features
-You can customize the card depending on who you intend to send it to by simply adding "index.html?name=..." at the end of the link.
+Customize the card by adding "index.html?name=..." at the end of the link.
 
 * **Website Link** [Happy Birthday Card](https://zahararm.github.io/Virtual-Birthday-Card/)
